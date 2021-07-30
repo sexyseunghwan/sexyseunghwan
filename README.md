@@ -22,11 +22,11 @@
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Javascript-E34F26?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 
