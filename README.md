@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://img.shields.io/badge/ssh9308@naver.com-00B2FF?style=flat-square&logo=Messenger&logoColor=white"/> 
+</p>
+
 ### Hi there 👋
 
 <br>
