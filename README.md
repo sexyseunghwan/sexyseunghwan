@@ -2,14 +2,14 @@
 
 <br>
 
--  👽   Junior Web developer
--  💻   usually using Java and C# language for programmming
+-  👽   Junior Database developer
+-  💻   usually using Java and MSSQL language for programmming
 
 <br>
 <br>
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonPyo-Hong&show_icons=true&theme=radical&count_private=true&show_icons=true&hide=stars&line_height=24)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sexyseunghwan&show_icons=true&theme=radical&count_private=true&show_icons=true&hide=stars&line_height=24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonPyo-Hong&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br>
