@@ -1,6 +1,8 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/ssh9308@gmail.com-00B2FF?style=flat-square&logo=Messenger&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ssh9308-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/> 
+    <div style="width:100px;">
+        <img src="https://img.shields.io/badge/ssh9308@gmail.com-00B2FF?style=flat-square&logo=Messenger&logoColor=white"/>
+    </div>   
+        <img src="https://img.shields.io/badge/ssh9308-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/> 
 </p>
 
 ### Hi there 👋
