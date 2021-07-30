@@ -4,9 +4,8 @@
 </p>
 
 ### Hi there 👋 I'm Web Database Developer using SQL Server and Java.
-
-### I enjoy hiking :mount_fuji:
-### I like to learn new things. :heart_eyes:
+# I enjoy hiking :mount_fuji:
+# I like to learn new things. :heart_eyes:
 
 <br>
 
