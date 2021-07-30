@@ -3,9 +3,9 @@
         <img src="https://img.shields.io/badge/ssh9308-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/> 
 </p>
 
-##### Hi there 👋 I'm Web Database Developer using SQL Server and Java.
-##### I enjoy hiking :mount_fuji:
-##### I like to learn new things. :heart_eyes:
+Hi there 👋 I'm Web Database Developer using SQL Server and Java.
+I enjoy hiking :mount_fuji:
+I like to learn new things. :heart_eyes:
 
 <br>
 
