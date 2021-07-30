@@ -3,7 +3,7 @@
 <br>
 
 -  :baby:   Junior Database developer
--  💻   usually using Java and MSSQL language for programmming
+-  💻   usually using Java and SQLServer language for programmming
 
 <br>
 <br>
