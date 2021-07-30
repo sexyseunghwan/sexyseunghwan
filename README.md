@@ -2,15 +2,14 @@
         <img src="https://img.shields.io/badge/ssh9308@gmail.com-00B2FF?style=flat-square&logo=Messenger&logoColor=white"/>
         <img src="https://img.shields.io/badge/ssh9308-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/> 
 </p>
-
-Hi there 👋 I'm Web Database Developer using SQL Server and Java.
-<br>
-I enjoy hiking :mount_fuji:
+<p align="center">
+##### Hi there 👋 I'm Web Database Developer using SQL Server and Java.
+##### I enjoy hiking :mount_fuji:
 <br>
 I like to learn new things. :heart_eyes:
 
 <br>
-
+</p>
 -  :baby:   Junior Database developer
 -  💻   usually using Java and SQLServer language for programmming
 
