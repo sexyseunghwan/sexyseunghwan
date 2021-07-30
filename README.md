@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/ssh9308@naver.com-00B2FF?style=flat-square&logo=Messenger&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/ssh9308@gmail.com-00B2FF?style=flat-square&logo=Messenger&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ssh9308-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/> 
 </p>
 
 ### Hi there 👋
