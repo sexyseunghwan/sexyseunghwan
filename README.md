@@ -1,7 +1,4 @@
-<p align="center">
-        <img src="https://img.shields.io/badge/ssh9308@gmail.com-00B2FF?style=flat-square&logo=Messenger&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ssh9308-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/> 
-</p>
+
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsexyseunghwan&count_bg=%2341C83D&title_bg=%23555555&icon=postwoman.svg&icon_color=%23FFFFFF&title=hits%28%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98%29&edge_flat=false"/></a>
 
@@ -24,6 +21,14 @@ I like to learn new things. :heart_eyes:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sexyseunghwan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br>
+
+
+<p align="center">
+        <img src="https://img.shields.io/badge/ssh9308@gmail.com-00B2FF?style=flat-square&logo=Messenger&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ssh9308-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/> 
+</p>
+
+
 
 ### 💪🏻 Skills
 
