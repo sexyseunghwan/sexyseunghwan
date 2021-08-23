@@ -11,7 +11,7 @@ I like to learn new things. :heart_eyes:
 <br>
 
 -  :baby:   Junior Database developer
--  💻   usually using Java and SQLServer language for programmming
+-  💻   usually using Java and MSSQL language for programmming
 
 <br>
 <br>
