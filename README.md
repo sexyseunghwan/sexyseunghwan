@@ -40,7 +40,7 @@ I love to learn new things. :heart_eyes:
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/ -77216F?style=flat-square&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-1287B1?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
     <a href="https://goodbyeanma.tistory.com/category/SQL"><img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
