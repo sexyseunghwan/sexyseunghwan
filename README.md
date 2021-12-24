@@ -14,6 +14,9 @@ I love to learn new things. :heart_eyes:
 -  💻   usually using Java and MSSQL language for programmming
 
 <br>
+
+My Blog
+https://goodbyeanma.tistory.com/
 <br>
 <div align=center>
 
