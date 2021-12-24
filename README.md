@@ -18,6 +18,9 @@ I love to learn new things. :heart_eyes:
 ##### My Blog
 <br>
 https://goodbyeanma.tistory.com/
+
+<br>
+<br>
 <br>
 <div align=center>
 
