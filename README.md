@@ -16,7 +16,7 @@ I love to learn new things. :heart_eyes:
 
 <br>
 
-##### My Blog
+##### My Technology Blog
 https://goodbyeanma.tistory.com/
 
 <br>
