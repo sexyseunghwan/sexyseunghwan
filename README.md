@@ -60,7 +60,7 @@ https://goodbyeanma.tistory.com/
 
 <br>
 
-### 💪🏻 Skills
+<p align="center">### 💪🏻 Skills</p>
 
 #### Platforms && Languages
 <p align="center">
