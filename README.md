@@ -47,16 +47,18 @@ https://goodbyeanma.tistory.com/
  
 </div>
 <br>
+<br>
+<br>
 
 
+
+### :speech_balloon:   Contact
 <p align="center">
-        <span>:speech_balloon:   Contact</span>
-        <br>
         <img src="https://img.shields.io/badge/ssh9308@gmail.com-00B2FF?style=flat-square&logo=Messenger&logoColor=white"/>
         <img src="https://img.shields.io/badge/ssh9308-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/> 
 </p>
 
-
+<br>
 
 ### 💪🏻 Skills
 
