@@ -32,6 +32,13 @@ https://goodbyeanma.tistory.com/
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sexyseunghwan)
 
+        
+<a href = "https://github.com/devxb/ReadmePlants">
+
+ <img src = "https://readmeplants.com/get?name=sexyseunghwan&plant=blossomTree&planet=eclipse&background=black"/>
+
+</a>
+        
 </div>
 <br>
 
