@@ -45,7 +45,7 @@ https://goodbyeanma.tistory.com/
 
 
 
-<h2 align="center">:trophy:   GIT Trpphy</h2>
+<h2 align="center">:trophy:   GIT Trpphy List</h2>
 <div align=center>
         
 ![trophy](https://github-profile-trophy.vercel.app/?username=sexyseunghwan&theme=matrix)
