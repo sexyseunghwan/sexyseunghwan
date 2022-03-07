@@ -27,20 +27,16 @@ https://goodbyeanma.tistory.com/
 
 <br>
 <br>
+
+
 <br>
+
+<h2 align="center">:chart_with_upwards_trend:   Git - This Year Statistics</h2>
 <div align=center>
-
+        
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sexyseunghwan&show_icons=true&theme=radical&count_private=true&show_icons=true&hide=stars&line_height=24)
-<br> 
-<br>         
-<br>       
-
-<br>    
-<br>
-
-<br>
-
 </div>
+
 
 <br>
 
