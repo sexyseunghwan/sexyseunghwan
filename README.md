@@ -30,7 +30,7 @@ https://goodbyeanma.tistory.com/
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sexyseunghwan&show_icons=true&theme=radical&count_private=true&show_icons=true&hide=stars&line_height=24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sexyseunghwan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sexyseunghwan)
+![trophy](https://github-profile-trophy.vercel.app/?username=sexyseunghwan&theme=matrix)
 
       
         
