@@ -35,7 +35,7 @@ https://goodbyeanma.tistory.com/
 <br>         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sexyseunghwan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>       
-![trophy](https://github-profile-trophy.vercel.app/?username=sexyseunghwan&theme=matrix)
+
 <br>    
 <br>
 
@@ -43,6 +43,16 @@ https://goodbyeanma.tistory.com/
 
 </div>
 
+
+
+<h2 align="center">:trophy:   GIT Trpphy</h2>
+<div align=center>
+        
+![trophy](https://github-profile-trophy.vercel.app/?username=sexyseunghwan&theme=matrix)
+        
+</div>
+
+<br>
 
 <h2 align="center">:scroll:   GIT History</h2>
 <div align=center>
