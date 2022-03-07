@@ -32,12 +32,14 @@ https://goodbyeanma.tistory.com/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sexyseunghwan&show_icons=true&theme=radical&count_private=true&show_icons=true&hide=stars&line_height=24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sexyseunghwan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-        
+<br>       
 ![trophy](https://github-profile-trophy.vercel.app/?username=sexyseunghwan&theme=matrix)
-
+<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sexyseunghwan&theme=monokai)
-
+<br>
+        
 -  :pencil2:   Coding Test Grade
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssh9308)](https://solved.ac/ssh9308/)           
 
 </div>
