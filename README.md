@@ -73,7 +73,7 @@ https://goodbyeanma.tistory.com/
 <br>
 
 
-<h2 align="center">:speech_balloon:   Contact</h2>
+<h2 align="center">:e-mail:   Contact</h2>
 <p align="center">
         <img src="https://img.shields.io/badge/ssh9308@gmail.com-00B2FF?style=flat-square&logo=Messenger&logoColor=white"/>
         <img src="https://img.shields.io/badge/ssh9308-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/> 
