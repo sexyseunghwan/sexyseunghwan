@@ -61,9 +61,9 @@ https://goodbyeanma.tistory.com/
 <br>
 
 ### 💪🏻 Skills
-
+<center>### Skills</center>  
 <p align="center" style="font-size:10em;">
-### Skills
+
 
 </p>
 
