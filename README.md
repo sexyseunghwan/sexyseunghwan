@@ -97,6 +97,15 @@ https://goodbyeanma.tistory.com/
 
 <br>
 
+<h2 align="center">:pencil2:   Coding Test Grade</h2>
+<div align=center>
+        
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssh9308)](https://solved.ac/ssh9308/)    
+        
+</div>
+
+<br>
+
 <h2 align="center">:scroll:   GIT History</h2>
 <div align=center>
         
@@ -106,14 +115,7 @@ https://goodbyeanma.tistory.com/
 
 <br>
 
-<h2 align="center">:pencil2:   Coding Test Grade</h2>
-<div align=center>
-        
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssh9308)](https://solved.ac/ssh9308/)    
-        
-</div>
 
-<br>
 
 
 
