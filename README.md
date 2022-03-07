@@ -36,6 +36,8 @@ https://goodbyeanma.tistory.com/
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssh9308)](https://solved.ac/ssh9308/)            
         
 ![trophy](https://github-profile-trophy.vercel.app/?username=sexyseunghwan&theme=matrix)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sexyseunghwan&theme=vue)
         
 </div>
 <br>
