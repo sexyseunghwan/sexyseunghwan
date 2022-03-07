@@ -46,6 +46,14 @@ https://goodbyeanma.tistory.com/
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssh9308)](https://solved.ac/ssh9308/)           
  
 </div>
+
+
+
+<h2 align="center">:pencil2:   Coding Test</h2>
+<p align="center">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssh9308)](https://solved.ac/ssh9308/)           
+</p>
+
 <br>
 <br>
 <br>
