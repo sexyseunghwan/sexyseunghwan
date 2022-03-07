@@ -6,8 +6,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC300&height=300&section=header&text=alien%20seunghwan&fontSize=90)
 
 
-##### Hi there 👋 I'm Web Database Developer using SQL Server and Java.
-##### I enjoy hiking :mount_fuji:
+##### Hi there 👋 I'm Web Database Developer using SQL Server and C#.
+
+
 <br>
 I love to learn new things. :heart_eyes:
 
@@ -15,7 +16,9 @@ I love to learn new things. :heart_eyes:
 <br>
 
 -  :baby:   Junior Database developer
--  💻   usually using Java and MSSQL language for programmming
+-  💻   usually using Java,C# and MSSQL language for web-programmming
+- :school_satchel: I use Java and C++. When practicing algorithms
+- :floppy_disk: I am very interested in optimizing DB performance.
 
 <br>
 
