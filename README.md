@@ -35,7 +35,7 @@ https://goodbyeanma.tistory.com/
         
 <a href = "https://github.com/devxb/ReadmePlants">
 
- <img src = "https://readmeplants.com/get?name=sexyseunghwan&plant=blossomTree&planet=eclipse&background=black"/>
+ <img src = "https://readmeplants.com/get?name=sexyseunghwan&plant=blossomTree&planet=eclipse&background=none"/>
 
 </a>
         
