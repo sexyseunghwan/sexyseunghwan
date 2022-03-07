@@ -39,9 +39,8 @@ https://goodbyeanma.tistory.com/
 <br>
 
 
-<h2 align="center">💪🏻 Skills</h2>
+<h2 align="center">💪🏻 Skills - Platforms && Languages</h2>
 
-#### Platforms && Languages
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
