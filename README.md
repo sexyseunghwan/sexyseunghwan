@@ -38,7 +38,7 @@ https://goodbyeanma.tistory.com/
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sexyseunghwan&theme=monokai)
 <br>
         
--  :pencil2:   Coding Test Grade
+<span>:pencil2:   Coding Test Grade</span>
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssh9308)](https://solved.ac/ssh9308/)           
 
