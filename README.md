@@ -37,7 +37,7 @@ https://goodbyeanma.tistory.com/
         
 ![trophy](https://github-profile-trophy.vercel.app/?username=sexyseunghwan&theme=matrix)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sexyseunghwan&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sexyseunghwan&theme=monokai)
         
 </div>
 <br>
