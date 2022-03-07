@@ -40,11 +40,7 @@ https://goodbyeanma.tistory.com/
 <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sexyseunghwan&theme=monokai)
 <br>
-        
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssh9308)](https://solved.ac/ssh9308/)           
- 
 </div>
 
 
@@ -57,9 +53,6 @@ https://goodbyeanma.tistory.com/
 </div>
 
 <br>
-<br>
-<br>
-
 
 
 <h2 align="center">:speech_balloon:   Contact</h2>
