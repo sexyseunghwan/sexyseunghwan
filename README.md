@@ -38,12 +38,20 @@ https://goodbyeanma.tistory.com/
 ![trophy](https://github-profile-trophy.vercel.app/?username=sexyseunghwan&theme=matrix)
 <br>    
 <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sexyseunghwan&theme=monokai)
+
 <br>
 
 </div>
 
 
+<h2 align="center">:scroll:   GIT History</h2>
+<div align=center>
+        
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sexyseunghwan&theme=monokai)  
+        
+</div>
+
+<br>
 
 <h2 align="center">:pencil2:   Coding Test</h2>
 <div align=center>
