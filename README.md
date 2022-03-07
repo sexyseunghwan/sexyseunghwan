@@ -3,7 +3,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsexyseunghwan&count_bg=%2341C83D&title_bg=%23555555&icon=postwoman.svg&icon_color=%23FFFFFF&title=hits%28%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98%29&edge_flat=false"/></a>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=#FFC300&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFC300&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 ##### Hi there 👋 I'm Web Database Developer using SQL Server and Java.
