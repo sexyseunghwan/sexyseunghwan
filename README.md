@@ -19,6 +19,9 @@ I love to learn new things. :heart_eyes:
 ##### My Technology Blog
 https://goodbyeanma.tistory.com/
 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sexyseunghwan)
+
 <br>
 <br>
 <br>
