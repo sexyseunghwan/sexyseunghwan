@@ -10,15 +10,15 @@
 
 
 <br>
-I love to learn new things. :heart_eyes:
+I love drugs. :heart_eyes:
 
 
 <br>
 
--  :baby:   Junior Database developer
--  💻   usually using Java,C# and MSSQL language for web-programmming
-- :school_satchel: I use Java and C++. When practicing algorithms
-- :floppy_disk: I am very interested in optimizing DB performance.
+-  :baby:   Junior Balog
+-  💻   usually using knife, gun, bomb
+- :school_satchel: ....this is my..
+- :floppy_disk: I am very interested in murder
 
 <br>
 
