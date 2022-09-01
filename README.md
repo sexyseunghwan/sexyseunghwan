@@ -76,6 +76,11 @@ https://goodbyeanma.tistory.com/
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 </p>
 <p align="center">
+    <img src="https://img.shields.io/badge/Elasticsearch-#005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kibana-#005571?style=flat-square&logo=Kibana&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-#DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
