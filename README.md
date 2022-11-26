@@ -82,7 +82,7 @@ https://goodbyeanma.tistory.com/
 </p>
 <p align="center">
      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>   
-     <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Kafka&logoColor=white"/>   
+     <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>   
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
