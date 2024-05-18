@@ -55,6 +55,7 @@ https://goodbyeanma.tistory.com/
     <img src="https://img.shields.io/badge/C++-1287B1?style=flat-square&logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/C sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rust-#000000?style=flat-square&logo=Rust&logoColor=white"/>
 <p>
 <p align="center">
      <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>  
