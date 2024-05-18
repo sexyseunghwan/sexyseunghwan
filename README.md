@@ -15,8 +15,8 @@ I love to learn new things. :heart_eyes:
 
 <br>
 
--  :baby:   Junior Programmer
--  💻   usually using Java,C# and MSSQL language for web-programmming
+-  :baby:   Programmer
+-  💻   usually using RUST, Java, C++ and MSSQL language for web-programmming
 - :school_satchel: I use Java and C++. When practicing algorithms
 - :floppy_disk: I am very interested in optimizing DB performance.
 
